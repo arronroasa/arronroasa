@@ -4,17 +4,17 @@ I'm a software developer currently in my second year at the University of Albert
 
 ## 🛠 Tech stack
 
-**Languages:** Python · JavaScript · TypeScript · Go · Rust
+**Languages:** Python · Java · C#
 
-**Frontend:** React · Vue · Svelte · Next.js · Tailwind CSS
+**Frontend:** React · Tailwind CSS
 
-**Backend & APIs:** Node.js · FastAPI · GraphQL · Django
+**Backend & APIs:** FastAPI
 
-**Databases:** PostgreSQL · MySQL · MongoDB · Redis
+**Databases:** SQLite · MongoDB
 
-**DevOps & cloud:** Docker · Kubernetes · AWS · GitHub Actions
+**DevOps & cloud:** Docker · GitHub Actions
 
-**Tools:** VS Code · Vim · Git · Figma
+**Tools:** VS Code · Git · Figma
 <!--
 **arronroasa/arronroasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
