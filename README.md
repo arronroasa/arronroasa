@@ -4,9 +4,7 @@ I'm a software developer currently in my second year at the University of Albert
 
 ## 🛠 Tech stack
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) · Java · C#
-
-**Frontend:** React
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) · ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) · ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **Backend & APIs:** FastAPI
 
@@ -14,7 +12,7 @@ I'm a software developer currently in my second year at the University of Albert
 
 **DevOps & cloud:** Docker · GitHub Actions
 
-**Tools:** VS Code · Git · Figma
+**Tools:** VS Code · Git · Unity
 <!--
 **arronroasa/arronroasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
