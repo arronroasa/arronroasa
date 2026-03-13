@@ -6,7 +6,7 @@ I'm a software developer currently in my second year at the University of Albert
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) · Java · C#
 
-**Frontend:** React · Tailwind CSS
+**Frontend:** React
 
 **Backend & APIs:** FastAPI
 
