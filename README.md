@@ -1,6 +1,6 @@
 ## Hey, I'm Arron
 
-I'm a software developer currently in my second year at the University of Alberta, with interests in game development, robotics, and cloud computing.
+I'm a software developer currently in my third year at the University of Alberta, with interests in game development, robotics, and cloud computing.
 
 ## 🛠 Tech stack
 
