@@ -2,9 +2,9 @@
 
 I'm a software developer currently in my third year at the University of Alberta, with interests in game development, robotics, and cloud computing.
 
-## 🛠 Tech stack
+## Tech Stack
 
-**Languages:** Python · Java · C#
+**Languages:** C# · Python · Java 
 
 **Backend & APIs:** FastAPI
 
@@ -12,7 +12,7 @@ I'm a software developer currently in my third year at the University of Alberta
 
 **DevOps & cloud:** Docker · GitHub Actions
 
-**Tools:** VS Code · Git · Unity
+**Automation:** Playwright
 <!--
 **arronroasa/arronroasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
