@@ -6,11 +6,9 @@ I'm a developer currently in my third year at the University of Alberta, with in
 
 **Languages:** C# · Python · Java 
 
-**Backend & APIs:** FastAPI
-
 **Databases:** SQLite · MongoDB
 
-**DevOps & cloud:** Docker · GitHub Actions
+**DevOps & Cloud:** Docker · GitHub Actions
 
 **Automation:** Playwright
 <!--
