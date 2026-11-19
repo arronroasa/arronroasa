@@ -6,9 +6,9 @@ I'm a developer currently in my third year at the University of Alberta, with in
 
 **Languages:** C# · Python · Java 
 
-**Databases:** SQLite · MongoDB
+**Databases:** SQLite · MongoDB · Supabase
 
-**DevOps & Cloud:** Docker · GitHub Actions
+**DevOps & Cloud:** Docker · GitHub Actions · Cybera
 
 **Automation:** Playwright
 <!--
